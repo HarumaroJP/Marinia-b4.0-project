@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 23_Decoy
+  m_EditorClassIdentifier: 
+  itemID: 23
+  fileName: 23_Decoy
+  itemName: "\u52D5\u7269\u306E\u3082\u3051\u3044"
+  recipe:
+  - key: {fileID: 11400000, guid: bc38a44861d641547a6a12a1a55ed030, type: 2}
+    value: 2
+  lapCenter: {x: 0, y: -0.05, z: 0.1}
+  lapSize: {x: 0.6, y: 0.3, z: 1}
+  itemClass: 2
+  itemSetType: 2
+  itemColliderType: 2
+  itemIcon: {fileID: 21300000, guid: 5c962382a65f2114fa5ff15a9b6e0e25, type: 3}
+  itemHP: 10
+  itemDamage: 0
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u3053\u308C\u3067\u9A19\u3055\u308C\u3066\u304F\u308C\u308B\u304B\u306A...?"
+  takeKeys: 66000000
+  changeChild: 0

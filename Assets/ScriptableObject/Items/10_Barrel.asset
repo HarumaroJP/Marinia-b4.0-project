@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 10_Barrel
+  m_EditorClassIdentifier: 
+  itemID: 10
+  fileName: 10_Barrel
+  itemName: "\u6A3D"
+  recipe:
+  - key: {fileID: 11400000, guid: bc38a44861d641547a6a12a1a55ed030, type: 2}
+    value: 4
+  - key: {fileID: 11400000, guid: c7e277fca47778b4eb6f6a67cc8b962a, type: 2}
+    value: 1
+  lapCenter: {x: 0, y: 0, z: 0}
+  lapSize: {x: 0, y: 0, z: 0}
+  itemClass: 2
+  itemSetType: 2
+  itemColliderType: 2
+  itemIcon: {fileID: 21300000, guid: 29f89bc5a1f716643ad7c8221406ae1d, type: 3}
+  itemHP: 10
+  itemDamage: 0
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u30B7\u30F3\u30D7\u30EB\u306A\u6A3D\u3002"
+  takeKeys: 66000000
+  changeChild: 0

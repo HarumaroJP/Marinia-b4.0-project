@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c47f5a81c32e54844a874731ab942a4d, type: 3}
+  m_Name: DataList
+  m_EditorClassIdentifier: 
+  story:
+    episodeEvent:
+    - eventID: 1
+      textPairMethod:
+      - textId: 1
+        methodName: 
+      - textId: 2
+        methodName: 
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 2
+      textPairMethod:
+      - textId: 1
+        methodName: 
+      - textId: 2
+        methodName: 
+      - textId: 3
+        methodName: 
+      - textId: 4
+        methodName: 
+      - textId: 5
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 3
+      textPairMethod:
+      - textId: 3
+        methodName: 
+      - textId: 4
+        methodName: 
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 4
+      textPairMethod:
+      - textId: 5
+        methodName: 
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 5
+      textPairMethod:
+      - textId: 6
+        methodName: 
+      - textId: 7
+        methodName: 
+      - textId: 8
+        methodName: 
+      - textId: 9
+        methodName: 
+      - textId: 10
+        methodName: 
+      - textId: 11
+        methodName: 
+      - textId: 12
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 6
+      textPairMethod:
+      - textId: 6
+        methodName: 
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 7
+      textPairMethod:
+      - textId: 7
+        methodName: 
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag:
+      - flagType: 3
+        flagResult: 0
+    - eventID: 8
+      textPairMethod:
+      - textId: 13
+        methodName: 
+      - textId: 14
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 9
+      textPairMethod:
+      - textId: 13
+        methodName: 
+      - textId: 14
+        methodName: 
+      - textId: 15
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 10
+      textPairMethod:
+      - textId: 8
+        methodName: 
+      - textId: 9
+        methodName: 
+      - textId: 10
+        methodName: ExpandBarrier
+      eventType: 1
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 11
+      textPairMethod:
+      - textId: 16
+        methodName: FirstMobSpawner
+      eventType: 0
+      forceExecute: 1
+      isAlready: 0
+      flag:
+      - flagType: 4
+        flagResult: 0
+    - eventID: 12
+      textPairMethod:
+      - textId: 11
+        methodName: 
+      - textId: 12
+        methodName: 
+      - textId: 13
+        methodName: 
+      eventType: 1
+      forceExecute: 1
+      isAlready: 0
+      flag:
+      - flagType: 5
+        flagResult: 0
+    - eventID: 13
+      textPairMethod:
+      - textId: 14
+        methodName: SummonMagicRock
+      eventType: 1
+      forceExecute: 1
+      isAlready: 0
+      flag:
+      - flagType: 6
+        flagResult: 0
+    - eventID: 14
+      textPairMethod:
+      - textId: 18
+        methodName: CountdownPhase
+      eventType: 0
+      forceExecute: 1
+      isAlready: 0
+      flag: []
+    - eventID: 15
+      textPairMethod:
+      - textId: 19
+        methodName: 
+      eventType: 0
+      forceExecute: 1
+      isAlready: 0
+      flag:
+      - flagType: 7
+        flagResult: 0
+    - eventID: 16
+      textPairMethod:
+      - textId: 20
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 17
+      textPairMethod:
+      - textId: 17
+        methodName: 
+      eventType: 0
+      forceExecute: 0
+      isAlready: 0
+      flag: []
+    - eventID: 18
+      textPairMethod:
+      - textId: 20
+        methodName: BossSpawned
+      eventType: 0
+      forceExecute: 1
+      isAlready: 0
+      flag: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 21_Trap
+  m_EditorClassIdentifier: 
+  itemID: 21
+  fileName: 21_Trap
+  itemName: "\u8A2D\u7F6E\u578B\u30C8\u30E9\u30C3\u30D7"
+  recipe:
+  - key: {fileID: 11400000, guid: 042063c88f5d96c41b5cb484ec77f489, type: 2}
+    value: 2
+  lapCenter: {x: 0, y: 0, z: 0}
+  lapSize: {x: 2, y: 0.5, z: 3}
+  itemClass: 2
+  itemSetType: 2
+  itemColliderType: 2
+  itemIcon: {fileID: 21300000, guid: 5895eaaa975509b439ce55bba3968f40, type: 3}
+  itemHP: 10
+  itemDamage: 0
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u3053\u308C\u306B\u631F\u307E\u308C\u305F\u3089\u78BA\u5B9F\u306B\u305F\u3060\u3058\u3083\u6E08\u307E\u306A\u3044\u306D..."
+  takeKeys: 66000000
+  changeChild: 0

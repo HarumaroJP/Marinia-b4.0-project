@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 32_Battery
+  m_EditorClassIdentifier: 
+  itemID: 32
+  fileName: 32_Battery
+  itemName: "\u30D0\u30C3\u30C6\u30EA\u30FC"
+  recipe:
+  - key: {fileID: 11400000, guid: 15eae2b62bf7a4f429f5befc0abc56ba, type: 2}
+    value: 1
+  - key: {fileID: 11400000, guid: b638d24ac3410c847858e9d7d1f085ab, type: 2}
+    value: 1
+  lapCenter: {x: 0, y: 0, z: 0}
+  lapSize: {x: 0, y: 0, z: 0}
+  itemClass: 3
+  itemSetType: 0
+  itemColliderType: 0
+  itemIcon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  itemHP: 0
+  itemDamage: 0
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u3044\u3064\u3067\u3082\u660E\u308B\u304F\u5149\u308B\u4E0D\u601D\u8B70\u306A\u77F3\u3002"

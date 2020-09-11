@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: a3d56475de2fa924ea9b61111b42bdb5
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 691310248579080752
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action"
+  - first:
+      74: -2236628775657716795
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action.001"
+  - first:
+      74: -1529530370578315800
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction"
+  - first:
+      74: -6290728234272048028
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction.001"
+  - first:
+      74: 718645567944059108
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002Action"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: f15dd5e82f7fe9d47b65e3ba1a9cfb67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.001"
+    second: {fileID: 2100000, guid: fbf4de2967481bf4d89b49678d78f4ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action"
+      internalID: 691310248579080752
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action.001"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|tree.001Action.001"
+      internalID: -2236628775657716795
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction"
+      internalID: -1529530370578315800
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction.001"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|treeAction.001"
+      internalID: -6290728234272048028
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002Action"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002|\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002Action"
+      internalID: 718645567944059108
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Tree_level1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      parentName: Tree_level1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.001"
+      parentName: Tree_level1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: metarig
+      parentName: Tree_level1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5315366, y: -0.46633556, z: -0.46633554, w: 0.53153664}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002"
+      parentName: Tree_level1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Bone
+      parentName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.013485287, z: 0}
+      rotation: {x: -0.16285595, y: 0.08411617, z: -0.049187124, w: 0.9818264}
+      scale: {x: 1, y: 0.99999976, z: 1.0000002}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 7.4505804e-11, y: 0.0074181836, z: 9.313225e-11}
+      rotation: {x: 0.1020696, y: -0.07439487, z: 0.046916086, w: 0.9908815}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: -6.519258e-11, y: 0.0032255268, z: -0.0000000015966362}
+      rotation: {x: -0.27779973, y: -0.0021999925, z: -0.0012538321, w: 0.9606357}
+      scale: {x: 1, y: 0.99999994, z: 1.0000005}
+    - name: Bone.004
+      parentName: Bone.003
+      position: {x: 8.276714e-11, y: 0.004452207, z: -0.0000000015780824}
+      rotation: {x: 0.106140025, y: 0.0058273925, z: -0.025153993, w: 0.9940159}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone.004_end
+      parentName: Bone.004
+      position: {x: -0, y: 0.0043071797, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.005
+      parentName: Bone
+      position: {x: -0, y: 0.013485287, z: 0}
+      rotation: {x: -0.359584, y: 0.0521568, z: 0.93072975, w: -0.04148608}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000011}
+    - name: Bone.006
+      parentName: Bone.005
+      position: {x: -2.2351741e-10, y: 0.006059932, z: 3.9115547e-10}
+      rotation: {x: -0.11620763, y: -0.09900805, z: -0.013714649, w: 0.9881828}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1}
+    - name: Bone.007
+      parentName: Bone.006
+      position: {x: 1.4901161e-10, y: 0.0047760457, z: 5.5879353e-11}
+      rotation: {x: 0.6989132, y: -0.23056643, z: 0.060851753, w: 0.6742823}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+    - name: Bone.008
+      parentName: Bone.007
+      position: {x: -1.4901161e-10, y: 0.0041774972, z: -0.0000000025052578}
+      rotation: {x: -0.11762518, y: 0.025770202, z: 0.097575836, w: 0.9879166}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999999}
+    - name: Bone.008_end
+      parentName: Bone.008
+      position: {x: -0, y: 0.0038088423, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tree.001
+      parentName: Tree_level1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

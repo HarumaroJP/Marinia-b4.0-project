@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 17_Wood
+  m_EditorClassIdentifier: 
+  itemID: 17
+  fileName: 17_Wood
+  itemName: "\u6728\u6750"
+  recipe: []
+  lapCenter: {x: 0, y: 0, z: 0}
+  lapSize: {x: 0, y: 0, z: 0}
+  itemClass: 2
+  itemSetType: 2
+  itemColliderType: 0
+  itemIcon: {fileID: 21300000, guid: c5360a469615ee74abfc1a56364a9435, type: 3}
+  itemHP: 10
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u666E\u901A\u306E\u6728\u6750\u3002\u7D44\u307F\u5408\u308F\u305B\u308C\u3070\u306A\u306B\u304B\u306B\u4F7F\u3048\u308B\u304B\u3082\uFF1F"

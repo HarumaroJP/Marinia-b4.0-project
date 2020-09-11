@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 9_Pier
+  m_EditorClassIdentifier: 
+  itemID: 9
+  fileName: 9_Pier
+  itemName: "\u685F\u6A4B"
+  recipe:
+  - key: {fileID: 11400000, guid: 102e797a9af23cd438da6fd341678749, type: 2}
+    value: 2
+  - key: {fileID: 11400000, guid: bc38a44861d641547a6a12a1a55ed030, type: 2}
+    value: 6
+  buildingOffset: {x: 0, y: 0, z: 0}
+  itemClass: 2
+  itemSetType: 1
+  itemColliderType: 2
+  itemIcon: {fileID: 21300000, guid: 7425e0664930c7b4e844d6714f9e36e9, type: 3}
+  itemHP: 50
+  canDestroyFromAll: 0
+  canDestroyObject: []
+  itemInfo: "\u6D77\u306E\u4E0A\u306B\u6577\u304F\u3053\u3068\u304C\u3067\u304D\u308B\u3002"

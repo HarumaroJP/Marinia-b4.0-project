@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c6540bf4d1cee4084b2351e62ab066, type: 3}
+  m_Name: StoryDatabase
+  m_EditorClassIdentifier: 
+  episodeList:
+  - list: 010000000200000003000000
+  - list: 040000000500000006000000
+  - list: 07000000090000000a000000
+  - list: 0b000000
+  - list: 0c000000
+  - list: 0d000000
+  - list: 0e000000
+  - list: 0f000000
+  - list: 12000000
+  - list: 10000000
+  eventList: {fileID: 11400000, guid: 8e1d22886fdd73646a2b594487ff4291, type: 2}

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="332e5215-fe3c-4541-a2f6-cbac1b9bd70d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Object" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/Core_Barrier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/03/96792bcd/DefaultValueAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/70/f659d43f/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/MachineManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/LightFlower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/3c/c4900522/TweenerCore`3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RainChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UGUIEffect-master/Assets/Shaders/UI-Wave3.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UGUIEffect-master/Assets/Shaders/UI-Wave1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/BlinkShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextMeshProUGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/RainShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SaveData/savedata.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProcedualRandomMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/disolve.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/bd/2524e332/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleFX/Materials/UnlitVertexColour_ZTestAlways.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/StoryData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/94/9a1ef732/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/79/376eb4ff/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/48/9795866d/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/BattlePhase/LightingData.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/WoodenBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/IToolable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF679006-B1B8-4DB2-A5A4-4842EF13DC36/d5/d6c586f9/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTween.Modules.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/91/80148486/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/MemoGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2DB13BA0-D523-4322-8AA9-892C408FB49A/bd/80c54866/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/3f/9f680c12/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/DropBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/EnvironmentManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/Grass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Silhouette.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/ShaderCutOff.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7137A609-105F-472A-9773-B5A9B6DF383F/8c/5b3ea5cb/ParticleSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/SkyBoxBlender.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/ObjectToPit.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Outline/DrawSimple.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/cf/c22dcddd/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/b6/76ef3f56/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Outline/OutlinePostEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/Cinemachine/2.4.0/Cinemachine Example Scenes/Scenes/Trigger volumes/GenericTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Outline/SceneViewSelected.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/NavUIData/ItemListIndex_drag.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Outline/PostOutline.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/ISavable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2DB13BA0-D523-4322-8AA9-892C408FB49A/a0/a35b83fb/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/16/15b05a33/Gizmos.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/db/51797d7a/TooltipAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/16/6defc778/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/71/c0661c44/ILogger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/DisplayManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/ee/124778b1/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/94/cb6a1c77/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/e9/45a6cdd4/UnityEventBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/bc/193c672e/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/MemoSlotScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/db/cbf3ba74/MethodImplAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/6e/14cc60b3/LogType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/ee/78b9f6e5/UnityEvent`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98DA2062-F8D5-40E1-9AAE-F2038A83C747/f2/016e357f/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/1a/f4457089/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/ObjectData/HoldData/8_StonePickAxe.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/db/aa66c33b/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/GrassTouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C700E1B-63BB-4651-92EF-06E5E1F2254D/a1/183fc022/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/Cinemachine/2.4.0/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/bb/67241f58/InputField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/95/c162939e/CastHelper`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/SwordReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/47/2c299ecc/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/55/4a17a592/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/5f/d9dabe6a/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/38/7ab47a72/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/cf/5b6375ef/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68707DB6-4843-46A8-9D30-CDFA015DA77E/cc/60add561/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4A3ACBF9-5658-4327-8F33-A8C814FDDBD1/58/2543d204/GeneratedByOldBindingsGeneratorAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/3b/6936babb/DOSetter`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/d1/b7c08dd3/EqualityComparer`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/Rock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/2b/82374a12/ValueTuple`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/d3/9f72ee9d/IDropHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/94/1565ab88/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/2e/b34ffaa0/LayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/5c/9782ee0b/RigidbodyConstraints.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/4d/1078fef4/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/ca/f8d0c946/Ray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/a0/25aafc4d/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineVirtualCameraBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Machine/MagicRock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/74/113fe4d0/GridLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/43/e6320455/LineRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/d6/2e9f56c2/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/73/35682a82/Tweener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/22/aac636d9/TweenExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.3.0/PostProcessing/Runtime/PostProcessVolume.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/Sword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A8642DF-3638-4AB1-A1EF-B0E2D98B1551/6e/b9b7288f/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/21/dac67aca/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/56/c3dcb958/LayoutRebuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/0b/5f7ab25d/MethodImplOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/e2/66cdcc67/RawImage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/f9/ef33e677/TweenManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/BreakManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/3f/c9bc991b/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/8c/d018d4de/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples/Cinemachine/2.4.0/Cinemachine Example Scenes/Shared/Scripts/ExampleHelpWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/11/3a24b0bc/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/9b/93144634/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/61/507db1ff/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/dc/79b21c41/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/d9/59bd2b38/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/2b/50068da1/MethodImplAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/fe/b55f3c88/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/93/bcb6b106/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/d3/093956eb/SecuritySafeCriticalAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/a2/014c2c7a/Ease.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/cb/61a48e81/WaitForSeconds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/38/edf7d6be/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/SayMessageSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A42AAE5-BB19-4C82-BFE5-D4DC874E7300/21/f851cd2f/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/97/492972b0/ArgumentOutOfRangeException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/11/028f37bd/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/StoryDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/18/004f0a9f/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2019.3.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78327B6C-3C08-4CA5-975B-799474D7A953/22/4e2e9ba8/List`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/c1/17fca285/Dictionary`2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/FlagCore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DistortionSpace_noriben/DistortionSpaceSphere.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/MemoData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/0f/039fcbd3/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/FlashLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/09/acf957a8/Exception.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/61/f6cdfed7/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/d4/b3cbacf6/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/LightingFlower_Core.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/IBreakable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF246790-73D7-4D81-84F4-AD5E9CE5D368/2a/93b29539/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/bc/4d58fa27/TweenerCore`3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineVirtualCamera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Memo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/Water/WaterPropertyBlockSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21BBF68D-61D6-4A2A-A5C3-E180E6B6706D/5b/a6434a62/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIScript/Monoeye.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Bird_Moving_Corte.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/30/9f5ab886/SpecialNameAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Scripts/Water/WaterMaterialSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/SingletonMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/DefaultPier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/6e/6ae1956b/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/fb/5ffd0b35/Sequence.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84678EE5-C762-476B-BCA7-18F1F0BBA506/2c/062430a1/NotNullAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Shaders/WaterOpaque/DiffuseWaterOpaque.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/Axe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/PickAxe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/RockSpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/08/8b902db8/MethodImplOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/8e/dd160fa1/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Machine/Furnace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Machine/Workbench.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/6e/423b947e/ValueType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2019.3.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Machine/Bonfire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/342DC757-417D-4102-86BF-B252AD7ACA30/99/5833ad3e/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/PalmTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MobileDepthWater/Shaders/WaterOpaque/Height/DiffuseHeightWater.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/Coconut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/DriftWoodScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/06/75207573/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/b9/4091ce99/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/IcoSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/LogsPointScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/logChild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/0c/55b9818d/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/OreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/MovingWood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/LogAppear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30A00E62-9B65-4095-8D8B-C1F22AB8423A/fa/7d54b378/ParticleSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIScript/Robot_AI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/10/c8c33bcc/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIScript/RobotAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIScript/Bola.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIScript/Orenix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/1b/1e7955c5/MethodImplOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/ce/f45e58d0/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/de/6f8561a1/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/Delegater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/RigCleaner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/IWooden.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/delegateReciever.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/474BCD72-6FCE-44B1-9167-DD7A17E5D597/29/4e613387/CanvasUpdateRegistry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/cb/64844f2d/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/OverlapChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/DoSizeDelta_test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/CoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/DictionaryCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/ResolutionConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/AddListenerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/95/c5516b3d/SkinnedMeshRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/Practice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84678EE5-C762-476B-BCA7-18F1F0BBA506/e7/e1019ed0/FreeFunctionAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/8d/89d2faf6/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/93/88df3f81/Enum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/d4/9e37b8ec/File.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/FitForScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/ColliderTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/07/1c799214/ForceMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/ArrayCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03035303-2B91-4045-A0B9-6BEA329B98D3/f1/8ef92533/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/MoveObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97C55624-6C52-49DB-8843-A06027990E6C/2c/b01076b1/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/93/c4b936fc/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/ItemDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test Data/TestAddForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/b0/07103c77/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/b4/88749383/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/SkySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/99/f2755555/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/4e/c7e765f0/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/049BE2AF-E36F-487E-B06E-F49D51A0BAB6/9e/ece3ae29/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/MemoDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/Control.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/da/e3b02cbf/MemberInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/e3/d4663277/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/f0/09e14150/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/ItemDragScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/InGameMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/049BE2AF-E36F-487E-B06E-F49D51A0BAB6/d4/fdbbce86/AnimatorStateInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/AxisCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/RecipeItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/6e/3d64f1c9/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/Slotter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TitleAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B956647-017D-4DC1-B8D3-D25EEF012467/24/f45d8f2b/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/torqeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/Chest_S.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/54/56f6dd30/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/ItemMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/TitlePanelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/8d/3105bc81/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Option.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/PlusItemInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/Draggier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/49/346c4bc5/Screen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/CameraSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/FadeOutSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/ElementHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/76/2c7c2e28/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/PoisonGas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/ItemSlotScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/WorkbenchManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/Trap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/fd/0f889a2c/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Tools/Decoy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/PngSequenceAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/ObjectSaveClassHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/ItemManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Marinia.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/ItemLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/SaveDataAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/01/874d5be4/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/SaveManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/StatusManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/aa/e414f8f1/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/MariniaSaveLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/MariniaCoreLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/MonsterManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Options.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Debug/EventForDeveloper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/ItemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/CameraRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/Prologue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/PlayerCon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Machine/PuzzleBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/MagicField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/ToolSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/MonsterData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObject/MonsterDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/d0/82e43741/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/2d/c8804be9/DOVirtual.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets/FreeCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/PhaseSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2019.3.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/ISummonable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/FlagManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/IUsable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SAColliderBuilder/Editor/SABoneColliderBuilderInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SAColliderBuilder/Editor/SAMeshColliderBuilderInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SAColliderBuilder/Editor/SABoneColliderEditorCommon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SAColliderBuilder/Editor/SAMeshColliderEditorCommon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Environment/PalmRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/52/5193b18b/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/98/e44c47ce/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SAColliderBuilder/Scripts/SAMeshColliderBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/iTween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/Core.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/3c/ed406a2a/TweenManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleFX/Materials/UnlitVertexColour_Alpha.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/MonsterManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/MagicField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/DropBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObject/ItemDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Machine/MagicRock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Environment/Rock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Marinia.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/StoryDataEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mochineko/SimpleReorderableListSamples/DropDown/Editor/DropDownSampleEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObject/StoryData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/TextData/ImpactText.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIScript/Monoeye.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/Core.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Machine/PuzzleBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/SayMessageSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Environment/MovingWood.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Machine/Furnace.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/Chest_S.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/ObjectSaveClassHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/WoodenBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/ISavable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Environment/LogsPointScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/Control.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/TextData/PlayerText.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/MemoGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Environment/BreakManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/EnvironmentManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Environment/Core_Barrier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/FlagCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/PhaseSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Tools/PoisonGas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/WorkbenchManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/InGameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Option.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIScript/Orenix.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Story/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/UI/TitlePanelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Outline/OutlinePostEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Outline/DrawSimple.shader" />
+        <option value="$PROJECT_DIR$/Assets/OutlineEffect/Outline.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Outline/PostOutline.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/StatusManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/Interface/IToolable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Tools/Sword.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObject/ItemData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Player/ToolSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/SingletonMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIScript/Bola.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Core/ItemLibrary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystem/Debug/EventForDeveloper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xnk1zBKwETJ9OmmcBK00O6PEeb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35003132" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2999374" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Object" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="332e5215-fe3c-4541-a2f6-cbac1b9bd70d" name="Default Changelist" comment="" />
+      <created>1581689035498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581689035498</updated>
+      <workItem from="1581689039476" duration="1572000" />
+      <workItem from="1581761005378" duration="17147000" />
+      <workItem from="1581838003751" duration="2908000" />
+      <workItem from="1581855048537" duration="5619000" />
+      <workItem from="1581944707993" duration="1519000" />
+      <workItem from="1582030000746" duration="2518000" />
+      <workItem from="1582344656562" duration="23139000" />
+      <workItem from="1582466697023" duration="21576000" />
+      <workItem from="1582599374631" duration="644000" />
+      <workItem from="1582600386759" duration="3705000" />
+      <workItem from="1582618151750" duration="3693000" />
+      <workItem from="1582680382578" duration="9328000" />
+      <workItem from="1582720147964" duration="879000" />
+      <workItem from="1582766702566" duration="5773000" />
+      <workItem from="1582849893967" duration="6009000" />
+      <workItem from="1582881784060" duration="11913000" />
+      <workItem from="1583029473890" duration="1932000" />
+      <workItem from="1583052910337" duration="6629000" />
+      <workItem from="1583107093620" duration="2513000" />
+      <workItem from="1583118378253" duration="4618000" />
+      <workItem from="1583149986762" duration="13072000" />
+      <workItem from="1583243373861" duration="5254000" />
+      <workItem from="1583290932276" duration="2773000" />
+      <workItem from="1583327245131" duration="2736000" />
+      <workItem from="1583414141108" duration="6854000" />
+      <workItem from="1583475580024" duration="324000" />
+      <workItem from="1583496335158" duration="11939000" />
+      <workItem from="1583569906930" duration="5951000" />
+      <workItem from="1583581501661" duration="324000" />
+      <workItem from="1583582103510" duration="606000" />
+      <workItem from="1583583027212" duration="16311000" />
+      <workItem from="1583676308580" duration="3556000" />
+      <workItem from="1583814883251" duration="5487000" />
+      <workItem from="1583838315424" duration="8765000" />
+      <workItem from="1583934868289" duration="189000" />
+      <workItem from="1584406379415" duration="3706000" />
+      <workItem from="1585124294958" duration="219000" />
+      <workItem from="1585124557943" duration="4579000" />
+      <workItem from="1585185901120" duration="4317000" />
+      <workItem from="1585364350980" duration="9331000" />
+      <workItem from="1585393855252" duration="7497000" />
+      <workItem from="1585443493894" duration="12161000" />
+      <workItem from="1585660632050" duration="23636000" />
+      <workItem from="1585896269708" duration="1780000" />
+      <workItem from="1585915457386" duration="2827000" />
+      <workItem from="1585964655541" duration="17098000" />
+      <workItem from="1586063595192" duration="8100000" />
+      <workItem from="1586146710662" duration="15699000" />
+      <workItem from="1586397899104" duration="6175000" />
+      <workItem from="1586511255264" duration="2123000" />
+      <workItem from="1586569046071" duration="6103000" />
+      <workItem from="1586657590048" duration="5135000" />
+      <workItem from="1586763670241" duration="7940000" />
+      <workItem from="1586927722521" duration="836000" />
+      <workItem from="1587012043264" duration="11000" />
+      <workItem from="1587012083774" duration="13091000" />
+      <workItem from="1587190997634" duration="5238000" />
+      <workItem from="1587275460530" duration="11737000" />
+      <workItem from="1587398524507" duration="3439000" />
+      <workItem from="1587562099212" duration="8579000" />
+      <workItem from="1587790863308" duration="24000" />
+      <workItem from="1587790930177" duration="10603000" />
+      <workItem from="1587882225786" duration="4946000" />
+      <workItem from="1587984450293" duration="8990000" />
+      <workItem from="1588063794851" duration="6519000" />
+      <workItem from="1588126914775" duration="7491000" />
+      <workItem from="1588215071803" duration="6646000" />
+      <workItem from="1588325953206" duration="18446000" />
+      <workItem from="1588482570709" duration="6378000" />
+      <workItem from="1588509712729" duration="4660000" />
+      <workItem from="1588635806264" duration="29977000" />
+      <workItem from="1588901530450" duration="30872000" />
+      <workItem from="1589079481801" duration="1940000" />
+      <workItem from="1589092327232" duration="57590000" />
+      <workItem from="1589519026497" duration="7083000" />
+      <workItem from="1589546561938" duration="49189000" />
+      <workItem from="1589849014383" duration="130697000" />
+      <workItem from="1591104245959" duration="227000" />
+      <workItem from="1591104553982" duration="6259000" />
+      <workItem from="1591166490016" duration="554000" />
+      <workItem from="1591167067314" duration="110259000" />
+      <workItem from="1591968352654" duration="7871000" />
+      <workItem from="1592011288953" duration="64090000" />
+      <workItem from="1592306738662" duration="89949000" />
+      <workItem from="1592975045177" duration="6000" />
+      <workItem from="1592975091969" duration="11000" />
+      <workItem from="1592975390148" duration="23480000" />
+      <workItem from="1593092382976" duration="43851000" />
+      <workItem from="1593479936833" duration="69081000" />
+      <workItem from="1593958691013" duration="6695000" />
+      <workItem from="1594042290022" duration="6927000" />
+      <workItem from="1594126113072" duration="14727000" />
+      <workItem from="1594292938922" duration="54394000" />
+      <workItem from="1595034708627" duration="915000" />
+      <workItem from="1595116023444" duration="10400000" />
+      <workItem from="1595169119370" duration="2858000" />
+      <workItem from="1595338706998" duration="25844000" />
+      <workItem from="1595671596778" duration="25463000" />
+      <workItem from="1596274338165" duration="75960000" />
+      <workItem from="1597115886134" duration="37000" />
+      <workItem from="1597115952722" duration="1265000" />
+      <workItem from="1597117290693" duration="17942000" />
+      <workItem from="1597278500770" duration="54593000" />
+      <workItem from="1597802330318" duration="7797000" />
+      <workItem from="1597816454698" duration="93768000" />
+      <workItem from="1598054955231" duration="296598000" />
+      <workItem from="1598742872171" duration="46065000" />
+      <workItem from="1598873042512" duration="7833000" />
+      <workItem from="1599477655919" duration="25876000" />
+      <workItem from="1599818651928" duration="4305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="161" key="#Plugins" timestamp="1592976181893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1592976181893" />
+    <state x="711" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593588699713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593588699713" />
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.0.center" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.0.left" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.0.right" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.1.bottom" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.1.center" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.1.left" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.1.right" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.2.bottom" timestamp="1598870809395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809395" />
+    <state width="1877" height="136" key="GridCell.Tab.2.center" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.2.left" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.2.right" timestamp="1598870809394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809394" />
+    <state width="1877" height="136" key="GridCell.Tab.3.bottom" timestamp="1598870809395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809395" />
+    <state width="1877" height="136" key="GridCell.Tab.3.center" timestamp="1598870809395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809395" />
+    <state width="1877" height="136" key="GridCell.Tab.3.left" timestamp="1598870809395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809395" />
+    <state width="1877" height="136" key="GridCell.Tab.3.right" timestamp="1598870809395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598870809395" />
+    <state x="654" y="235" key="RiderGenerateDialog" timestamp="1598105487681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="235" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598105487681" />
+    <state x="328" y="253" key="SettingsEditor" timestamp="1595253158452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="328" y="253" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595253158452" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1598168114379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1598168114379" />
+    <state x="578" y="106" width="1161" height="828" key="find.popup" timestamp="1599739068877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="106" width="1161" height="828" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599739068877" />
+    <state x="567" y="240" key="run.anything.popup" timestamp="1598686720119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598686720119" />
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup" timestamp="1598789403123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598789403123" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592219196430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592219196430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs</url>
+          <line>286</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" initialLine="286">
+            <startOffsets>
+              <option value="18243" />
+            </startOffsets>
+            <endOffsets>
+              <option value="18244" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

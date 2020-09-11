@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 3be26b3625f71784a8980c6ebf321540
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 6517714258327031822
+    second: Idle.001
+  - first:
+      74: 4400453606987535483
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run"
+  - first:
+      74: -7422574632081429882
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_start"
+  - first:
+      74: 6459142205960381849
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_end"
+  - first:
+      74: -2594830005207816443
+    second: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Idle"
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle.001
+      takeName: Idle.001
+      internalID: 6517714258327031822
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run"
+      internalID: 4400453606987535483
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_start"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_start"
+      internalID: -7422574632081429882
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_end"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Run_end"
+      internalID: 6459142205960381849
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Idle"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|Idle"
+      internalID: -2594830005207816443
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Orenix(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      parentName: Orenix(Clone)
+      position: {x: 0.0882235, y: 0.6059413, z: -0.13297741}
+      rotation: {x: 1, y: -7.281359e-16, z: 0.000000014901165, w: 0.00000013315805}
+      scale: {x: 100, y: 99.99999, z: 99.99999}
+    - name: Bone
+      parentName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.97534233, y: 1.2251024e-15, z: -8.881785e-16, w: 0.22069736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.008
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.0708633, y: -0.070863254, z: 0.7035471, w: 0.70354694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.012
+      parentName: Bone.008
+      position: {x: 1.7763568e-17, y: 0.011899204, z: 0}
+      rotation: {x: 0.093276724, y: -0.06658886, z: -0.006183652, w: 0.99339175}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Bone.013
+      parentName: Bone.012
+      position: {x: -6.519258e-11, y: 0.021528475, z: -5.9604643e-10}
+      rotation: {x: 0.008374438, y: -0.01334215, z: 0.029810661, w: 0.9994315}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+    - name: Bone.013_end
+      parentName: Bone.013
+      position: {x: -0, y: 0.014924562, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.009
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.09918169, y: 0.08792068, z: -0.7086041, w: 0.69304633}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone.010
+      parentName: Bone.009
+      position: {x: 1.5832484e-10, y: 0.01340472, z: 2.1420418e-10}
+      rotation: {x: -0.5920859, y: -0.016091226, z: 0.0372715, w: 0.80485165}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+    - name: Bone.011
+      parentName: Bone.010
+      position: {x: 3.352761e-10, y: 0.020153688, z: 1.11758706e-10}
+      rotation: {x: -0.056551885, y: 0.02564902, z: -0.2552003, w: 0.96489215}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Bone.011_end
+      parentName: Bone.011
+      position: {x: -0, y: 0.015173915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.014
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.050713107, y: -0.038298648, z: -0.603344, w: 0.7949449}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone.015
+      parentName: Bone.014
+      position: {x: -1.16415315e-11, y: 0.01276451, z: -3.2316164e-10}
+      rotation: {x: 0.027717842, y: 0.01215294, z: -0.11607537, w: 0.9927792}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bone.015_end
+      parentName: Bone.015
+      position: {x: -0, y: 0.014493138, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.09141981, y: 0.22241396, z: -0.040004537, w: 0.969832}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 1.4901161e-10, y: 0.017904092, z: 1.4901161e-10}
+      rotation: {x: 0.11399014, y: 0.3063273, z: 0.2575252, w: 0.9093133}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Bone.004
+      parentName: Bone.002
+      position: {x: -0.0000000011920929, y: 0.013230487, z: 1.4901161e-10}
+      rotation: {x: -0.073110774, y: -0.21268424, z: -0.20804028, w: 0.9519136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.005
+      parentName: Bone.004
+      position: {x: 1.11758706e-10, y: 0.011604862, z: -7.4505804e-11}
+      rotation: {x: 0.034492075, y: -0.0128031615, z: -0.2095843, w: 0.97709817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.005_end
+      parentName: Bone.005
+      position: {x: -0, y: 0.011617024, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003
+      parentName: Bone.001
+      position: {x: 1.4901161e-10, y: 0.017904092, z: 1.4901161e-10}
+      rotation: {x: 0.55444854, y: -0.13206035, z: -0.42377174, w: 0.70396334}
+      scale: {x: 0.9999996, y: 1, z: 0.99999994}
+    - name: Bone.006
+      parentName: Bone.003
+      position: {x: -0, y: 0.015755197, z: -2.9802322e-10}
+      rotation: {x: 0.1403265, y: 0.07838349, z: 0.3741752, w: 0.9133222}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: Bone.007
+      parentName: Bone.006
+      position: {x: -1.4901161e-10, y: 0.011480763, z: -1.4901161e-10}
+      rotation: {x: -0.15395702, y: 0.020808643, z: 0.18300089, w: 0.97076}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bone.007_end
+      parentName: Bone.007
+      position: {x: -0, y: 0.011145673, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "ICO\u7403.003"
+      parentName: Orenix(Clone)
+      position: {x: -3.8557374, y: -1.739737, z: -1.0355226}
+      rotation: {x: -0.65503746, y: -0.2663195, z: 0.26631948, w: 0.6550373}
+      scale: {x: 88.320404, y: 27.928951, z: 27.928955}
+    - name: "ICO\u7403.002"
+      parentName: Orenix(Clone)
+      position: {x: 1.6712652, y: 0.1207622, z: -1.1759118}
+      rotation: {x: -0.5780465, y: -0.2943111, z: 0.23501718, w: 0.7238854}
+      scale: {x: 88.3204, y: 27.92895, z: 27.928955}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 27_Bone
+  m_EditorClassIdentifier: 
+  itemID: 27
+  fileName: 27_Bone
+  itemName: "\u306A\u306B\u304B\u306E\u9AA8"
+  recipe: []
+  lapCenter: {x: 0, y: 0, z: 0}
+  lapSize: {x: 0, y: 0, z: 0}
+  itemClass: 3
+  itemSetType: 0
+  itemColliderType: 0
+  itemIcon: {fileID: 21300000, guid: c15a596d86ece544bad74994dc9a278d, type: 3}
+  itemHP: 0
+  canDestroyFromAll: 0
+  canDestroyObject: []
+  itemInfo: "\u3053\u308C\u306F\u4EBA\u9593\u306E\u9AA8...\uFF1F"

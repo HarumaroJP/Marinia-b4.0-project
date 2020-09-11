@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e82e0278ea4784b7fb5278dc6d98458a, type: 3}
+  m_Name: 13_Workbench
+  m_EditorClassIdentifier: 
+  itemID: 13
+  fileName: 13_Workbench
+  itemName: "\u52A0\u5DE5\u53F0"
+  recipe:
+  - key: {fileID: 11400000, guid: bc38a44861d641547a6a12a1a55ed030, type: 2}
+    value: 5
+  lapCenter: {x: 0, y: 0.8, z: 0.1}
+  lapSize: {x: 3.8, y: 1.7, z: 2.65}
+  itemClass: 2
+  itemSetType: 2
+  itemColliderType: 2
+  itemIcon: {fileID: 21300000, guid: d8705d9d200fef347a57fa9685856da5, type: 3}
+  itemHP: 10
+  itemDamage: 0
+  canDestroyFromAll: 1
+  canDestroyObject: []
+  itemInfo: "\u7ACB\u6D3E\u306A\u52A0\u5DE5\u53F0\u3002\u305F\u304F\u3055\u3093\u30A2\u30A4\u30C6\u30E0\u3092\u4F5C\u308C\u305D\u3046\u3002"
+  takeKeys: 4401000066000000
+  changeChild: 1
